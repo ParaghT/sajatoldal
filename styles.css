@@ -1,0 +1,29 @@
+.container{
+    box-shadow: 0 0  10px rgb(255, 255, 255);
+    height: 100%;
+    background: rgb(255, 255, 255);
+    
+}
+hr{
+    margin: 3%;
+}
+.card{
+    box-shadow: 0 0  10px black;
+}
+body{
+    background-color: rgb(56, 56, 56);
+}
+
+.col{
+    margin-top: 5%;
+}
+.card-title{
+    text-shadow: 0 0  10px rgb(77, 77, 77);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+    height: 15rem;
+}
+.lent{
+    margin-top: 5%;
+}
