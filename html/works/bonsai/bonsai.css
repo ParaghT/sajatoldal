@@ -1,0 +1,39 @@
+#container{
+    background-image: url('pics/1.jpg') ;
+    background-repeat: no-repeat;
+
+}
+.nav{
+    margin-left: 35%;
+    margin-top: 15%;
+    text-align: center;
+    text-decoration: none;
+    color: black
+
+    
+
+}
+.col-4{
+    text-align: center;
+
+    
+}
+#cim{
+   margin-left: 2%;
+   
+}
+#text{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+#keret{
+    height: 100vh;
+}
+#folap{
+     background-image: url('pics/1.jpg') ;
+
+}
+
+#szoveg{
+    text-align: justify;
+}
